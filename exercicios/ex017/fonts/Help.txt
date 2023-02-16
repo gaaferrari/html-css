@@ -1,0 +1,49 @@
+How to install the font
+
+-------------------
+
+
+Microsoft Windows 95, 98, NT, 2000, and XP users
+
+Click Start, Settings, Control Panel.
+Open the Fonts icon by double clicking the icon.
+Within the Fonts window you will be able to view each of the currently installed fonts as well as install new fonts. To install a font, click the File menu and select Install New Font.
+Locate the directory of the fonts you wish to install.
+Highlight the fonts you wish to install and click ok.
+Missing install font option in Windows.
+
+
+
+Other Microsoft Windows users
+
+Click Start, Settings, Control Panel.
+Open the Fonts icon by double clicking the icon.
+Within the Fonts window you will be able to view each of the currently installed fonts as well as install new fonts. To install a font, click the File menu and select Install New Font.
+Locate the directory of the fonts you wish to install.
+Highlight the fonts you wish to install and click ok.
+  Users may also easily install fonts onto the computer by opening the fonts folder through Windows Explorer. Usually this folder is either C:\WINDOWS or C:\WINNT\FONTS. Once this folder is open, select the fonts you wish to install from an alternate folder and copy and paste them into the fonts folder.
+
+
+
+Apple Macintosh users
+
+Open the System Fonts folder.
+Open the drive or folder containing the fonts that you wish to install.
+Select each of the fonts you wish to install.
+While holding down the Options key, drag and drop the fonts into your fonts folder.
+-
+Or
+Double-click the icon of the font file. The Font Book will open and display the font so you can preview it.
+Click Install Font.
+
+
+
+같같같같�
+Font
+LaBoldyta
+
+By Pipirisnais
+http://www.pipirisnais.com/
+
+같같같같�
+
